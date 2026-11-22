@@ -30,9 +30,8 @@ A continuación se detallan los componentes, respaldos y scripts incluidos en es
 Para clonar y explorar este repositorio en tu sistema local, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-
 git clone https://github.com/dc-tux-arch/Wallpaper.git
-
+```
 ---
 
 <p align="center">Mantén tu sistema actualizado con un simple <code>sudo pacman -Syu</code> 🐧</p>
