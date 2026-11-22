@@ -1,5 +1,3 @@
-![Banner](assets/banner.jpg)
-
 <table>
   <tr>
     <!-- Logotipo integrado (Arch Linux + Engrane) alineado a la izquierda -->
