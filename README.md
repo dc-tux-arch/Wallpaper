@@ -1,15 +1,15 @@
-![Banner](Imágenes/assets/banner.jpg)
+![Banner](assets/banner.jpg)
 
 <table>
   <tr>
     <!-- Logotipo integrado (Arch Linux + Engrane) alineado a la izquierda -->
     <td align="center" valign="middle" width="160">
-      <img src="Imágenes/assetsassets/arch-config.jpg" alt="Arch Config Logo" width="150"/>
+      <img src="assets/arch-config.jpg" alt="Arch Config Logo" width="150"/>
     </td>
     <!-- Texto principal e información del proyecto -->
     <td valign="middle">
-      <h1># DC_TUX</h1>
-      <h2># Wallpaper</h2>
+      <h1>DC_TUX</h1>
+      <h2>Wallpaper</h2>
       <p><em>(Wallhaven).</em></p>
     </td>
   </tr>
@@ -30,9 +30,5 @@ A continuación se detallan los componentes, respaldos y scripts incluidos en es
 Para clonar y explorar este repositorio en tu sistema local, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-https://github.com/dc-tux-arch/Wallpaper.git
-```
 
----
-
-<p align="center">Mantén tu sistema actualizado con un simple <code>sudo pacman -Syu</code> 🐧</p>
+git clone https://github.com/dc-tux-arch/Wallpaper.git<p align="center">Mantén tu sistema actualizado con un simple <code>sudo pacman -Syu</code> 🐧</p>
