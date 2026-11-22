@@ -31,4 +31,8 @@ Para clonar y explorar este repositorio en tu sistema local, ejecuta el siguient
 
 ```bash
 
-git clone https://github.com/dc-tux-arch/Wallpaper.git<p align="center">Mantén tu sistema actualizado con un simple <code>sudo pacman -Syu</code> 🐧</p>
+git clone https://github.com/dc-tux-arch/Wallpaper.git
+
+---
+
+<p align="center">Mantén tu sistema actualizado con un simple <code>sudo pacman -Syu</code> 🐧</p>
