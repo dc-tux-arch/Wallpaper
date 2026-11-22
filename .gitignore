@@ -1,5 +1,5 @@
 # Ignorar todas las carpetas de la raíz
-/*/
+!*/
 
 # Excepto la carpeta Wallhaven (y todo su contenido)
 !/Imágenes/Wallhaven/**
