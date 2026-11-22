@@ -4,7 +4,7 @@
   <tr>
     <!-- Logotipo integrado (Arch Linux + Engrane) alineado a la izquierda -->
     <td align="center" valign="middle" width="160">
-      <img src="assets/arch-config.jpg" alt="Arch Config Logo" width="150"/>
+      <img src="assets/Arch-Wall.jpg" alt="Arch Config Logo" width="150"/>
     </td>
     <!-- Texto principal e información del proyecto -->
     <td valign="middle">
