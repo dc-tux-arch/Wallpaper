@@ -8,7 +8,7 @@
     <td valign="middle">
       <h1>DC_TUX</h1>
       <h2>Wallpaper</h2>
-      <p><em>(Wallhaven).</em></p>
+      <p><em>(<a href="https://wallhaven.cc/" target="_blank" rel="noopener noreferrer">Wallhaven</a>).</em></p>
     </td>
   </tr>
 </table>
